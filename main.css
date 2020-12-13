@@ -17,3 +17,7 @@ h1, h2 {
 table {
     display: inline-block;
 }
+
+p {
+    font-size: 20px;
+}
